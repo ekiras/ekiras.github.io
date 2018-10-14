@@ -3,10 +3,10 @@
 ################################
 lang        : "en"
 logo        :
-title       : Minimal Theme
-description : Your awesome site
-author      : Desired Persona
-email       : your-email@domain.com
+title       : Ekiras Blog
+description : Some Awesome Tutorials
+author      : ekiras
+email       : ekirastogi@gmail.com
 baseurl     : "" # the subpath of your site, e.g. /blog
 url         : ""
 date_format : "%-d %b %Y"
@@ -17,10 +17,13 @@ port        : 4000
 # Theme Settings
 ################################
 theme       : minimal-jekyll-theme
-permalink   : /:title/
+permalink   : /:path/
 
 collections:
   docs:
+    output: true
+    permalink: /:collection/:path/
+  java:
     output: true
     permalink: /:collection/:path/
 

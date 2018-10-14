@@ -1,5 +1,15 @@
 # Minimal Jekyll Theme
 
+# Install 
+Install dependencies using following command
+```
+bundle install
+```
+Run jekyll site using following command
+```
+bundle exec jekyll serve --watch
+```
+
 [![Gem Version](https://badge.fury.io/rb/minimal-jekyll-theme.svg)](https://badge.fury.io/rb/minimal-jekyll-theme)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/desiredpersona/minimal-jekyll-theme/master/LICENSE.txt)
 
@@ -56,16 +66,4 @@ Desired Persona
 - [Tachyons background overlays](https://github.com/lowmess/tachyons-background-overlays) by Alec Lomas.
 - [SVG icons](https://dribbble.com/shots/1925069-Lynny-Icon-Set-Free) by Matthew Skiles.
 - [BrowserStack](https://www.browserstack.com) Live, Web-Based Browser Testing.
-
-[![browserstack.com](/browserstack-logo.png)](https://www.browserstack.com)
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at [https://github.com/desiredpersona/minimal-jekyll-theme](https://github.com/desiredpersona/minimal-jekyll-theme). This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
-## License
-
-[MIT](https://github.com/desiredpersona/minimal-jekyll-theme/blob/master/LICENSE.md)
-
-
 
