@@ -9,14 +9,14 @@ navigation:
   - title: Themes
     url: https://desiredpersona.com/themes/
 
+  - title: Java
+    url: /java/
+
+  - title: Spring Boot
+    url: /spring-boot/
+
   - title: About
     url: /about/
-
-  - title: Blog
-    url: /archive/
-
-  - title: Contact
-    url: mailto:you@example.com
 
 
   footer:
