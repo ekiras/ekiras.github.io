@@ -52,7 +52,7 @@ google_plus_icon  : true
 disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: desired-persona-dev
+    shortname: ekiras
 
 
 ################################
