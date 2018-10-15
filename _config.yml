@@ -16,7 +16,7 @@ port        : 4000
 ################################
 # Theme Settings
 ################################
-theme       : minimal-jekyll-theme
+
 permalink   : /:path/
 
 collections:
@@ -50,7 +50,7 @@ exclude:
 # Analytics Settings
 ################################
 google_analytics: UA-XXXXXXXX-N
-google_analytics_async: true # https://developers.google.com/analytics/devguides/collection/analyticsjs/#alternative_async_tracking_snippet
+google_analytics_async: true
 google_tag_manager:
 facebook_pixel_id:
 
@@ -68,12 +68,12 @@ plugins:
 social:
   name: Joe Bloggs
   links:
-    - https://twitter.com/username
+    - https://twitter.com/ekirastogi
     - https://plus.google.com/u/0/+username
-    - https://www.facebook.com/username
+    - https://www.facebook.com/ekirastogi
 
 twitter:
-  username: Joe Bloggs
+  username: Ekansh Rastogi
 
 facebook:
   app_id:
